@@ -8,9 +8,9 @@
 
 <div align="center">
 
- :telescope: I’m currently working on **an app**
+ :telescope: I’m currently working on **an app!**
  
- :seedling: I’m currently learning **Swift, Typescript, Golang **
+ :seedling: I’m currently learning **Swift, Typescript, Golang**
 
 :speech_balloon: Ask me about **Java, Python, React... or anything [here](https://github.com/raineion/raineion/issues)**
 
@@ -19,13 +19,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:dan.martinezjulio@gmail.com">
+  <a href="mailto:josephwicorek@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/josephwicorek/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://danielmj.vercel.app" target="_blank">
+  <a href="" target="_blank">
      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
