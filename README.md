@@ -14,7 +14,7 @@
 
 :speech_balloon: Ask me about **Java, Python, React... or anything [here](https://github.com/JoeWicorek/JoeWicorek/issues)**
 
-:zap: Fun fact **I was first chair in band playing the trumpet🎺**
+🎺 Fun fact **I was first chair in band playing the trumpet🎺**
 
  </div>
  
