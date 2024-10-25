@@ -12,9 +12,9 @@
  
  :seedling: I’m currently learning **Swift, Typescript, Golang**
 
-:speech_balloon: Ask me about **Java, Python, React... or anything [here](https://github.com/raineion/raineion/issues)**
+:speech_balloon: Ask me about **Java, Python, React... or anything [here](https://github.com/JoeWicorek/JoeWicorek/issues)**
 
-:zap: Fun fact **I was first chair in band playing the trumpet🎺 :crossed_swords:**
+:zap: Fun fact **I was first chair in band playing the trumpet🎺**
 
  </div>
  
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
