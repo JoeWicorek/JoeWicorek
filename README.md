@@ -8,13 +8,13 @@
 
 <div align="center">
 
- :telescope: I’m currently working on **an app!**
+ :telescope: I’m currently working on **an app and multiple websites!**
  
  :seedling: I’m currently learning **Swift, Typescript, Golang**
 
 :speech_balloon: Ask me about **Java, Python, React... or anything [here](https://github.com/JoeWicorek/JoeWicorek/issues)**
 
-🎺 Fun fact **I was first chair in band playing the trumpet🎺**
+🎺Fun fact **I was first chair in band playing the trumpet🎺**
 
  </div>
  
