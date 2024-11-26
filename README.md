@@ -38,10 +38,6 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,c,java,nextjs,mysql" /><br>
 </div>
-
-<br/>
-<hr/>
-  <br/><br/><br/>
 </div>
 <hr/>
 <h2 align="center">:zap: Stats :zap:</h2>
